@@ -1,6 +1,6 @@
 {
-  "name": "@linaria/postcss-linaria",
-  "version": "5.0.0",
+  "name": "@felixfon/postcss-linaria",
+  "version": "5.0.1-pr.1384.2",
   "description": "Blazing fast zero-runtime CSS in JS library",
   "keywords": [
     "css",
@@ -9,9 +9,9 @@
     "react",
     "styled-components"
   ],
-  "homepage": "https://github.com/callstack/linaria#readme",
-  "bugs": "https://github.com/callstack/linaria/issues",
-  "repository": "git@github.com:callstack/linaria.git",
+  "homepage": "https://github.com/felixfon/linaria#readme",
+  "bugs": "https://github.com/felixfon/linaria/issues",
+  "repository": "git@github.com:felixfon/linaria.git",
   "license": "MIT",
   "sideEffects": false,
   "main": "lib/index.js",
